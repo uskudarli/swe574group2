@@ -1,5 +1,15 @@
 #summary Project Proposal.
 ==SWE 574, Group 2 - Project Proposal (Draft)==
+
+==Social Considerations==
+When we look to the current situation in social interactions sites on the web, we can observe that the habits of this generations has changed a lot compared to previous ones in many ways.
+
+One of the important results of todays' online social interactions is that we create a significant archive of our lives today. In every minute, 48 hours of video is added to youtube, 200 million of tweets are added on twitter in every day and an average user on facebook adds 90 pieces of content. This is an important archive that has been created any time before us. 
+
+An other important issue is that usage of social services is changing in a very rapid manner. People reacts changes in social media use the services presented like a game. Seth Priebatsch says describes this as "the game layer on top of the world". Everything we do is very similar to a game, especially in social interaction services. We try to build a better profile on facebook, gather more friends, try to reach more followers on twitter. Now the success becomes a more measurable event, since this becomes more like a game rather than a sharing and reaching connections. 
+
+According to these social considerations, we will try to build a social service that allows people to communicate and interact with peers in light of current social trends.
+
 ==Description==
 The aim of this project is to develop and deploy a web service which may be used by a community as a medium for exchanging services and goods within the community. This service will bemodelled after Local Exchange Trading Systems (LETS), which is a foundation used by communities to conduct transactions using their locally valid currencies. The local currencies used by LETS can be earned by participants via accomplishing tasks for other members and may be spent by requesting anyone in the network for a specific task. LETS employ mutual credit for their operations, enabling generation of credits when necessitated by transactions and keeping balances of individual members.
 LETS are started in order to empower local economic control, encourage to self-sufficiency by providing a system that facilitates indirect trading services, skills and resources among the members which aims to be a non-profit organization. Goals are to help saving money, getting to know each other, sharing resources and arouse the local economy as well as reducing dependence on imports while boosting local quality of life.
@@ -23,4 +33,3 @@ First step in implementing the service would be developing an infrastructure whi
 References
 
 http://www.ashevillelets.org/
-
