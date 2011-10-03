@@ -1,5 +1,5 @@
 #summary Project Proposal.
-==SWE 574, Group 2 - Project Proposal (Draft)==
+==SWE 574, Group 2 - Project Proposal==
 
 ==Social Considerations==
 When we look to the current situation in social interactions sites on the web, we can observe that the habits of this generations has changed a lot compared to previous ones in many ways.
