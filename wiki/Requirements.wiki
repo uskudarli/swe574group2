@@ -1,0 +1,33 @@
+#labels Featured
+= Entities-Actions =
+  * service (relation to offer and request?)
+  * offer
+    * make an offer
+  * request
+    * make a request
+  * tag
+    * tag an item (what items?)
+  * rating
+    * rate an item (what items?)
+    * add comment (optional)
+  * user
+    * display credit
+    * signup
+    * login
+    * add tag
+  * admin
+    * delete user
+    * tag CRUD
+
+= Pages =
+  * main page
+    * recent offers
+    * recent request
+    * tag cloud
+  * services page
+  * offers page
+  * requests page
+  * user account page
+  * user profile page
+  * admin panel
+    * edit user page
