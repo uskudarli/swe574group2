@@ -17,7 +17,8 @@ LETS are started in order to empower local economic control, encourage to self-s
 Legal Issues/Problems: It is known that LET Systems are used to evade taxation. LETS are legal community help programs that operated for informal trade of similar services on noncommercial basis, not a scheme to avoiding paying taxes. In order to protect data, an agreement that takes a permission on sharing and using personal details should be signed.
 
 There is a substantial amount of work associated with running and participating in a LET System. Transactions and balances of each of the members should be logged and updated regularly. Also the list of services offered and demanded by members should be up-to-date in order avoid transaction requests for unavailable services. The proposed web application will implemented as a Local Exchange Trading System in a closed community, namely a university. The members of the community will consist of university students, lecturers and staff who have voluntarily registered themselves. During the registration process each user will be required to describe services and goods they can offer and are interested in. Presenting this information through individual user profiles will be a one the key aspects of stimulating the local economy.
-Implementation Details   
+
+==Implementation Details==
 
 The LETS is designed to deal with the problems associated with conventional money. The system is defined by underlying considerations such as community which refers a finite group of people who decide to participate to the systems, personal which refers the promises of the participants.
 
