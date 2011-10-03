@@ -46,5 +46,5 @@ The LETS is designed to deal with the problems associated with conventional mone
   * Deploying the fully functional web service on a server
 
 ==References==
-http://www.ashevillelets.org/
-http://en.wikipedia.org/wiki/Local_Exchange_Trading_Systems
+  # http://www.ashevillelets.org/
+  # http://en.wikipedia.org/wiki/Local_Exchange_Trading_Systems
