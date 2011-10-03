@@ -24,6 +24,10 @@
     * recent offers
     * recent request
     * tag cloud
+    * recent transactions
+    * active members
+    * new members
+    * undiscovered gems (members who have several offers and good feedback but are rarely receiving requests)
   * services page
   * offers page
   * requests page
