@@ -38,4 +38,5 @@ When they have reached a predetermined level of trust, they should be able to ex
 First step in implementing the service would be developing an infrastructure which can dynamically create web pages required by an on-line LET System, namely user profiles and a main page advertising popular services, goods and users. This version should be sort of an outline of the system to present an idea about user and administrator functions to be provided by the final system. The next phase would be implementing the business logic of the LET System and creating the entities, e.g. users, services, transactions. Associating user interfaces with the user and administrator functions and the available entities as dictated by the business logic should be the following step. At this stage, various tests related to user and administrator functions may be performed to detect inconsistencies. The last phase of development would be deploying the fully functional web service on a server.
 
 ==References==
-http://www.ashevillelets.org/
+http://www.ashevillelets.org/<br>
+http://en.wikipedia.org/wiki/Local_Exchange_Trading_Systems
