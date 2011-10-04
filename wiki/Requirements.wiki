@@ -1,10 +1,7 @@
 #labels Featured
 = Entities-Actions =
   * service (relation to offer and request?)
-  * offer
-    * make an offer
-  * request
-    * make a request
+  
   * tag
     * tag an item (what items?)
   * rating
@@ -15,6 +12,13 @@
     * signup
     * login
     * add tag
+    * accept an offer
+    * list an offer
+    * accept a request
+    * list a request
+    * display and search offers
+    * display and search requests
+    
   * admin
     * delete user
     * tag CRUD
