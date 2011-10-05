@@ -49,8 +49,7 @@
      * current user requests
      * completed user offers (list: service offerer name, rating, date, credit value)
      * completed user requests (list: service requester name, rating, date, credit value) 
-     * recommendations (other users can write recommendation for the user, regardless of completed requests and offers. this section is under control of user, and can delete 
-inappropirate inputs)
+     * recommendations (other users can write recommendation for the user, regardless of completed requests and offers. this section is under control of user, and can delete inappropirate inputs)
 
   * admin panel
      * edit user page
