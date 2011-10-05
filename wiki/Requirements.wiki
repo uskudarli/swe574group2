@@ -33,11 +33,24 @@
     * active members
     * new members 
     * undiscovered gems (members who have several offers and good feedback but are rarely receiving requests)
+
   * services page
+
   * offers page
+
   * requests page
+
   * user account page
+
   * user profile page
+     * photo (photo is not mandatory)
+     * user information (name surname, sex, location, age, hobies, job.) => none of there areas are mandatory except name
+     * current user offers
+     * current user requests
+     * completed user offers (list: service offerer name, rating, date, credit value)
+     * completed user requests (list: service requester name, rating, date, credit value) 
+     * recommendations (other users can write recommendation for the user, regardless of completed requests and offers. this section is under control of user, and can delete 
+inappropirate inputs)
 
   * admin panel
      * edit user page
