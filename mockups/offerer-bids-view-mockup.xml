@@ -161,7 +161,7 @@
         <text>24</text>
       </controlProperties>
     </control>
-    <control controlID="259" controlTypeID="com.balsamiq.mockups::Label" x="531" y="430" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+    <control controlID="259" controlTypeID="com.balsamiq.mockups::Label" x="549" y="428" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <text>12</text>
       </controlProperties>
@@ -188,9 +188,9 @@
     </control>
     <control controlID="265" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="863" y="130" w="-1" h="705" measuredW="16" measuredH="100" zOrder="51" locked="false" isInGroup="-1"/>
     <control controlID="266" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="793" y="585" w="-1" h="173" measuredW="16" measuredH="100" zOrder="52" locked="false" isInGroup="-1"/>
-    <control controlID="267" controlTypeID="com.balsamiq.mockups::LinkBar" x="61" y="121" w="-1" h="-1" measuredW="278" measuredH="21" zOrder="53" locked="false" isInGroup="-1">
+    <control controlID="267" controlTypeID="com.balsamiq.mockups::LinkBar" x="61" y="121" w="-1" h="-1" measuredW="284" measuredH="21" zOrder="53" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Home%2C%20Profile%2C%20Account%20Setting%2C%20Logout</text>
+        <text>Home%2C%20Profile%2C%20Account%20Settings%2C%20Logout</text>
       </controlProperties>
     </control>
     <control controlID="268" controlTypeID="com.balsamiq.mockups::Label" x="61" y="142" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="54" locked="false" isInGroup="-1">
