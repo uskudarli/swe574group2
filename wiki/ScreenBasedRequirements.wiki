@@ -89,6 +89,7 @@
     # ASC
     # DESC
   # search results will be visible on this page.
+  # user will search by clicking search button.
   # Offers after expire date will not be visible.
   # When a user clicks an offer, he will navigate to the details page.
 
@@ -113,11 +114,10 @@
     # ASC
     # DESC
   # search results will be visible on this page.
+  # user will search by clicking search button.
   # when a user clicks a requst, he will navigate to request detail page.
 
 =Registration Page=
-
-=Deal detail page=
 
 
 =Deal detail page=
