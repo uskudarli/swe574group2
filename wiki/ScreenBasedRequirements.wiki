@@ -78,3 +78,23 @@
 
 =Deal detail page=
 
+
+=Deal detail page=
+  # This page will present info about a deal.
+  # Offerer name and info will be presented. (@todo: how much info? => image, age, credit balance maybe.)
+  # Service consumer(s)' info will be presented. 
+  # Credits earned or cost in this deal will be presented.
+  # All users will be able to comment on this deal.
+  # Only consumer will be able to rate this service.
+    # rates will be out of 5 stars.
+  # Other info of this offer will be visible. (tags, hours, availability...)
+  # Similar deals will be visible on the sidebar.
+    # deal offer, consumer and credit info will be presented.
+    # deals will be matched by tags.
+  # Similar offers will be visible on the sidebar.
+    # offer owner, tags, and credit info will be visible
+    # offers will be matched by tags.
+  # Similar requests will be visible on the sidebar.
+    # request owner, credit info and tags will be visible.
+    # Requests will be matched by tags. 
+
