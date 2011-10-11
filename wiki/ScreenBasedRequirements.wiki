@@ -3,6 +3,8 @@
 ==Quick Links==
 <wiki:toc max_depth=1 />
 
+=Home Page=
+
 =Create Offer Screen=
 
 1. The "Create Offer Screen" should have a container which has tools like text boxes, check boxes and menus enabling a user to define the specifics about the offer.
