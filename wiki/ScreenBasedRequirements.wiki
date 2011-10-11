@@ -27,12 +27,55 @@ This page presents requirements about the project of swe574 group 2.
         # The checkbox should be labeled as "Multiple Attendees" and should be unchecked by default.
 	# The numeric stepper should be disabled and set to one by default.
 	# Checking the multiple attendees checkbox should enable the numeric stepper.
+  # creator will enter how much credits he wants for this offer. He will also be informed that he cannot change this amount after he creates this offer.
+  # in the sidebar, user will see his last 5 offers, last 5 request, last 5 deals.
+    # he can navigate to see his all offers requests and deals by clicking _see all_ link below them.
 
 == Update Offer Page==
   # this page will be used to update offer info.
+  # This page will have same properties similar to create offer page.
+  #  User will not be able to change credit for this offer.
 
 ==Offer Detail Page==
   # this page will present all info about offer.
+  # Offer creator info will be visible.
+    # Image
+    # name surname
+    # credit balance
+    # Age
+    # Reputation
+  # Users can navigate to the profile of creator by clicking on his name.
+  # Offer details will be presented.
+    # Offer name
+    # description
+    # credits wanted
+    # tags
+  # Bidders will be listed.
+    # bidder name surname
+    # credit balance
+    # reputation
+  # users can navigate to profile of bidder by clicking on his name.
+  # Comments for this offer will be listed.
+    # commentor name surname
+    # commenter reputation
+    # commenter comment
+    # commenter comment of time
+  # users can navigate to profile of commenters profile by clicking on his name. 
+  # Users will be able to comment under this offer by using a text area.
+  # Max 1000 chars can be entered in 1 comment.
+  # There will be a button to for users to bid under this offer.
+  # There will be a button for the creator of this offer to accept a bid.
+  # after a bid is accepted, no other people can bid under this offer.
+  # after a bid is accepted, the accepted bid will be highlighed in the page and other users will understand that that user has taken this service.
+  # After a bid is accepted, the *complete offer* button will be visible to owner.
+    # by clicking this button, he accepts that the bidder has completed his task.
+    # After click, this offer will not be visible as an offer. It is now a deal.
+    # After click, the credit balance will be edited for both of the users.
+    # After click, user will be redirected to his deals page. 
+  # After a bid is accepted *cancel bid* button will be visible to owner.
+    # if user clicks on this button, bid will be canceled.
+    # after click, others can continue to bid on this offer. 
+
 
 ==Create Request Page==
   # This page will be used to create new requests.
