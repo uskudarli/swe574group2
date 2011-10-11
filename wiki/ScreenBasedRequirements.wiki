@@ -3,7 +3,7 @@
 This page presents requirements about the project of swe574 group 2.
 
 ==Quick Links==
-<wiki:toc max_depth=1 />
+<wiki:toc max_depth=2 />
 
 ==Home Page==
 
