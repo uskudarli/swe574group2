@@ -1,4 +1,3 @@
-#labels Featured
 = Entities-Actions =
   * service (relation to offer and request?)
   
