@@ -9,11 +9,11 @@ This page presents requirements about the project of swe574 group 2.
   # this page will be the first page visible to visitors.
 
 ==Create Offer Screen==
-  # The "Create Offer Screen" should have a container which has tools like text boxes, check boxes and menus enabling a user to define the specifics about the offer.
-  # There should be text box labeled as "Title" which can be used by the user to set the title of the offer.
+  # The *"Create Offer Screen"* should have a container which has tools like text boxes, check boxes and menus enabling a user to define the specifics about the offer.
+  # There should be text box labeled as *"Title"* which can be used by the user to set the title of the offer.
     # The title text box should allow at most 80 characters.
     # The title text box must be non-empty in order for a new order to be created.
-  # A text box labeled as "Tags" should be present in the container which should include a comma separated list of tags relevant to the user's offer.
+  # A text box labeled as *"Tags"* should be present in the container which should include a comma separated list of tags relevant to the user's offer.
     # The user must enter at least one tag to be able to create the offer.
     # The user may enter at most 5 tags.
     # The tags text box should have auto-complete function to enable the user to select from previously entered tags.
@@ -22,10 +22,7 @@ This page presents requirements about the project of swe574 group 2.
     # Entering text into the description text box is not mandatory for the creation of a new offer.
     # The description text box must allow at most 200 characters.
   # A region designated as "Limitations" should be included in the main container. The limitations should allow the user the set the required options about the offer. The options should be *"Multiple Attendees", "Requires Presence", "Valid Until" and "Available"*.
-    # The multiple attendees option should consist of a checkbox and a numeric stepper.
-    # The checkbox should be labeled as *"Multiple Attendees"* and should be unchecked by default.
-    # The numeric stepper should be disabled and set to one by default.
-    # Checking the multiple attendees checkbox should enable the numeric stepper.
+    # The multiple attendees option should consist of a checkbox and a numeric stepper. The checkbox should be labeled as *"Multiple Attendees"* and should be unchecked by default. The numeric stepper should be disabled and set to one by default. Checking the multiple attendees checkbox should enable the numeric stepper.
     # The *"Requires Presence"* checkbox should be selected by default. This button should enable the user to select if the service needs to be performed in the presence of the associate.
     # Next to the *"Requires Presence"* checkbox, on the right-hand side, there should be a map view. The map view should be enabled only if the *"Requires Presence"* checkbox is selected. The map view should be zoomed into the user's current location if they have allowed location sharing. If location sharing has not been enabled, to map should be zoomed out to show display user's city fully. The map view should enable to user to select a region in which they are willing to provide the service.
     # Next to the *"Valid Until"* there should be a checkbox which may be used to enable the data selector next to it. This checkbox should be deselected by default.
