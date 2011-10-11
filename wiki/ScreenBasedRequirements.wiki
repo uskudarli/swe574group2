@@ -32,8 +32,6 @@
 
 =Request Detail Page=
 
-=HomePage=
-
 =User Profile Page=
   # This page will present info about the user.
   # User profile photo will be visible in this page.
