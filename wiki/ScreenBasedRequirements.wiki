@@ -11,11 +11,14 @@
   # There should be text box labeled as "Title" which can be used by the user to set the title of the offer.
     # The title text box should allow at most 80 characters.
     # The title text box must be non-empty in order for a new order to be created.
-  #A text box labeled as "Tags" should be present in the container which should include a comma separated list of tags relevant to the user's offer.
+  # A text box labeled as "Tags" should be present in the container which should include a comma separated list of tags relevant to the user's offer.
     # The user must enter at least one tag to be able to create the offer.
     # The user may enter at most 5 tags.
     # The tags text box should have auto-complete function to enable the user to select from previously entered tags.
     # Each tag should have a button next to it, on the right hand side, which may be used to remove the tag before the offer is created.
+  # There should be text box labeled as "Description" to provide additional information about the user's offer.
+    # Entering text into the description text box is not mandatory for the creation of a new offer.
+    # The description text box must allow at most 200 characters.
 
 = Update Offer Screen=
 
