@@ -34,40 +34,40 @@
 =HomePage=
 
 =User Profile Page=
-# This page will present info about the user.
-# User profile photo will be visible in this page.
-# User name and surname will be visible on this page.
-#Information about this user will be visible in this page.
-  # Age
-  # Balance (Credit ?)
-  # City
-  # Other attributes 
-#User's tag claoud will be visible on this page.
-#User's offers, requests and deals links will be visible on this page.
-#In offers page, offers serviced by this user will be visible.
-  # Offer title
-  # Offer tags
-  # Offer expire date (if any)
-  # Offer avaiability
-  # Offer limitations
-# Owner of this profile will be able to edit these offers. 
-  # user will click edit button or link and will navigate to offer update page.
-  # user will update visibility of this offer in update page. (@problem: eger bozukmesini istemiyorsa neden offer etsin?)
-# When a user clicks on an offer, he will navigate to offer detail page.
-# In requests page, user will see current profile owner's service requests.
-  # Request name
-  # Other request attributes (@todo: define other request attributes)
-# User will edit requests by clicking an edit button visible near each request.
-  # when a user clicks on this link he will navigate to request update page. 
-  # in request update page, the owner can edit the visibility of this request. (@problem: eger gozukmesini istemiyorsa neden bir request yaratsin?)
-# When user clicks on the name of request, he will navigate to request detail page.
-# In deals tab, user will be presented the deals that the owner has made so far. 
-  # offerer of that service
-  # consumer of that service
-  # deal time
-  # deal status 
-  # credit consumed or earned
-# when a user clicks on a deal row, he will navigate to deal detail page.
+  # This page will present info about the user.
+  # User profile photo will be visible in this page.
+  # User name and surname will be visible on this page.
+  #Information about this user will be visible in this page.
+    # Age
+    # Balance (Credit ?)
+    # City
+    # Other attributes 
+  #User's tag claoud will be visible on this page.
+  #User's offers, requests and deals links will be visible on this page.
+  #In offers page, offers serviced by this user will be visible.
+    # Offer title
+    # Offer tags
+    # Offer expire date (if any)
+    # Offer avaiability
+    # Offer limitations
+  # Owner of this profile will be able to edit these offers. 
+    # user will click edit button or link and will navigate to offer update page.
+    # user will update visibility of this offer in update page. (@problem: eger bozukmesini istemiyorsa neden offer etsin?)
+  # When a user clicks on an offer, he will navigate to offer detail page.
+  # In requests page, user will see current profile owner's service requests.
+    # Request name
+    # Other request attributes (@todo: define other request attributes)
+  # User will edit requests by clicking an edit button visible near each request.
+    # when a user clicks on this link he will navigate to request update page. 
+    # in request update page, the owner can edit the visibility of this request. (@problem: eger gozukmesini istemiyorsa neden bir request yaratsin?)
+  # When user clicks on the name of request, he will navigate to request detail page.
+  # In deals tab, user will be presented the deals that the owner has made so far. 
+    # offerer of that service
+    # consumer of that service
+    # deal time
+    # deal status 
+    # credit consumed or earned
+  # when a user clicks on a deal row, he will navigate to deal detail page.
 
 
 =Offer Search Page=
@@ -97,4 +97,3 @@
   # Similar requests will be visible on the sidebar.
     # request owner, credit info and tags will be visible.
     # Requests will be matched by tags. 
-
