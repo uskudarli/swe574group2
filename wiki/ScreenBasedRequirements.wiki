@@ -26,8 +26,13 @@ This page presents requirements about the project of swe574 group 2.
     # The checkbox should be labeled as "Multiple Attendees" and should be unchecked by default.
     # The numeric stepper should be disabled and set to one by default.
     # Checking the multiple attendees checkbox should enable the numeric stepper.
-    # There should be a checkbox labeled "Asynchronous" to signify that the service may be performed without face-to-face interaction.
-    # Asynchronous checkbox should be unchecked by default.
+    # There should be a checkbox labeled "Requires Presence".
+    # The "Requires Presence" checkbox should be selected by default.
+    # Next to the "Requires Presence" checkbox, on the right-hand side, there should be a map view.
+    # The map view should be enabled only if the "Requires Presence" checkbox is selected.
+    # The map view should be zoomed into the user's current location if they have allowed location sharing.
+    # If location sharing has not been enabled, to map should be zoomed out to show display user's city fully.
+    # The map view should enable to user to select a region in which they are willing to provide the service.
     # There should be two radio buttons next to a header titled "Available".
     # The radio buttons should be labeled as "Flexible" and "Only During". They should enable the user to set a specific time period for the service, if desired.
     # The "Flexible" radio button should be selected by default.
