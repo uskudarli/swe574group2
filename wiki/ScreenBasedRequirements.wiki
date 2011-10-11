@@ -10,12 +10,12 @@
   # The "Create Offer Screen" should have a container which has tools like text boxes, check boxes and menus enabling a user to define the specifics about the offer.
   # There should be text box labeled as "Title" which can be used by the user to set the title of the offer.
     # The title text box should allow at most 80 characters.
-    #The title text box must be non-empty in order for a new order to be created.
+    # The title text box must be non-empty in order for a new order to be created.
   #A text box labeled as "Tags" should be present in the container which should include a comma separated list of tags relevant to the user's offer.
-  # The user must enter at least one tag to be able to create the offer.
-  # The user may enter at most 5 tags.
-  # The tags text box should have auto-complete function to enable the user to select from previously entered tags.
-  # Each tag should have a button next to it, on the right hand side, which may be used to remove the tag before the offer is created.
+    # The user must enter at least one tag to be able to create the offer.
+    # The user may enter at most 5 tags.
+    # The tags text box should have auto-complete function to enable the user to select from previously entered tags.
+    # Each tag should have a button next to it, on the right hand side, which may be used to remove the tag before the offer is created.
 
 = Update Offer Screen=
 
