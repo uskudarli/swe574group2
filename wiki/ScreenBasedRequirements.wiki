@@ -27,7 +27,6 @@ This page presents requirements about the project of swe574 group 2.
         # The checkbox should be labeled as "Multiple Attendees" and should be unchecked by default.
 	# The numeric stepper should be disabled and set to one by default.
 	# Checking the multiple attendees checkbox should enable the numeric stepper.
-
   # creator will enter how much credits he wants for this offer. He will also be informed that he cannot change this amount after he creates this offer.
   # in the sidebar, user will see his last 5 offers, last 5 request, last 5 deals.
     # he can navigate to see his all offers requests and deals by clicking _see all_ link below them.
