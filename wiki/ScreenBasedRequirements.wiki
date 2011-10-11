@@ -68,8 +68,52 @@
 
 
 =Offer Search Page=
+  # this page will list current open offers in the system.
+    # When the page first loads, it will load current offers and sort them according to creation date in descending manner.
+  # Offers info will be presented in a table of data.
+    # Offer creator
+    # Creation date
+    # tags
+    # validation date
+    # offerer availability
+    # credits required
+  # Search field will be visible on this page on the right top of the page. 
+    # Search input box and to-search field will be selected by user. (ex: guitar - in tags)
+  # A select area will define the results sorting area.
+    # Date
+    # offerer credits
+    # offerer name
+    # credits required
+    # offerer reputation
+  # a select area will define the results sorting type.
+    # ASC
+    # DESC
+  # search results will be visible on this page.
+  # Offers after expire date will not be visible.
+  # When a user clicks an offer, he will navigate to the details page.
 
 =Request Search Page=
+  # this page will list current open requests in the system.
+    # When the page first loads, it will load current requests and sort them according to creation date in descending manner.
+  # Requests info will be presented in a table of data.
+    # Request creator
+    # Creation date
+    # tags
+    # Credit to pay
+    # requester credits
+  # Search field will be visible on this page on the right top of the page. 
+    # Search input box and to-search field will be selected by user. (ex: guitar - in tags)
+  # A select area will define the results sorting area.
+    # Date
+    # requester credits
+    # requester name
+    # credit to pay
+    # requester reputation
+  # a select area will define the results sorting type.
+    # ASC
+    # DESC
+  # search results will be visible on this page.
+  # when a user clicks a requst, he will navigate to request detail page.
 
 =Registration Page=
 
