@@ -126,6 +126,17 @@ This page presents requirements about the project of swe574 group 2.
 
 ==Registration Page==
   # this page will be used to register to the system.
+  # In order to register, user will enter the following info:
+    # Name
+    # surname
+    # Date of birth
+    # email
+    # Job
+    # Password
+  # email must be validated according to our validated email array.
+  # Password must be at least 5 characters.
+  # name - surname - email and password are required fields.
+  # After user successfully created his/her account, he will be informed as "_your account is created successfully, now you can login from home page._"
 
 ==Deal detail page==
   # This page will present info about a deal.
