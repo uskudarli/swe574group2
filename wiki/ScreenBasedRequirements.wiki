@@ -1,11 +1,13 @@
-#summary Requirements associated with each screen are presented in this page.
 #labels Phase-Requirements
+=Requirements=
+This page presents requirements about the project of swe574 group 2.
+
 ==Quick Links==
 <wiki:toc max_depth=1 />
 
-=Home Page=
+==Home Page==
 
-=Create Offer Screen=
+==Create Offer Screen==
 
   # The "Create Offer Screen" should have a container which has tools like text boxes, check boxes and menus enabling a user to define the specifics about the offer.
   # There should be text box labeled as "Title" which can be used by the user to set the title of the offer.
@@ -20,17 +22,17 @@
     # Entering text into the description text box is not mandatory for the creation of a new offer.
     # The description text box must allow at most 200 characters.
 
-= Update Offer Screen=
+== Update Offer Screen==
 
-=Offer Detail Page=
+==Offer Detail Page==
 
-=Create Request Page=
+==Create Request Page==
 
-=Update request Page=
+==Update request Page==
 
-=Request Detail Page=
+==Request Detail Page==
 
-=User Profile Page=
+==User Profile Page==
   # This page will present info about the user.
   # User profile photo will be visible in this page.
   # User name and surname will be visible on this page.
@@ -67,7 +69,7 @@
   # when a user clicks on a deal row, he will navigate to deal detail page.
 
 
-=Offer Search Page=
+==Offer Search Page==
   # this page will list current open offers in the system.
     # When the page first loads, it will load current offers and sort them according to creation date in descending manner.
   # Offers info will be presented in a table of data.
@@ -93,7 +95,7 @@
   # Offers after expire date will not be visible.
   # When a user clicks an offer, he will navigate to the details page.
 
-=Request Search Page=
+==Request Search Page==
   # this page will list current open requests in the system.
     # When the page first loads, it will load current requests and sort them according to creation date in descending manner.
   # Requests info will be presented in a table of data.
@@ -117,10 +119,10 @@
   # user will search by clicking search button.
   # when a user clicks a requst, he will navigate to request detail page.
 
-=Registration Page=
+==Registration Page==
 
 
-=Deal detail page=
+==Deal detail page==
   # This page will present info about a deal.
   # Offerer name and info will be presented. (@todo: how much info? => image, age, credit balance maybe.)
   # Service consumer(s)' info will be presented. 
