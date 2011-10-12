@@ -21,28 +21,32 @@ This page presents requirements about the project of swe574 group 2.
   # There should be text box labeled as *Description* to provide additional information about the user's offer.
     # Entering text into the description text box is not mandatory for the creation of a new offer.
     # The description text box must allow at most 200 characters.
-  # A region designated as *Limitations* should be included in the main container. The limitations should allow the user the set the required options about the offer. The options should be *Multiple Attendees*, *Requires Presence*, *Valid Until* and *Available*.
-    # The multiple attendees option should consist of a checkbox and a numeric stepper. The checkbox should be labeled as *Multiple Attendees* and should be unchecked by default. The numeric stepper should be disabled and set to one by default. Checking the multiple attendees checkbox should enable the numeric stepper.
-    # The *Requires Presence* checkbox should be selected by default. This button should enable the user to select if the service needs to be performed in the presence of the associate.
-    # Next to the *Requires Presence* checkbox, on the right-hand side, there should be a *Map View*. The *Map View* should be enabled only if the *Requires Presence* checkbox is selected. The *Map View* should be zoomed into the user's current location if they have allowed location sharing. If location sharing has not been enabled, to map should be zoomed out to show display user's city fully. The *Map View* should enable to user to select a region in which they are willing to provide the service.
+  # A region designated as *Limitations* should be included in the main container. The *Limitations* region should contain the necessary tools to set the details of the offer.. The options should be *Multiple Attendees*, *Requires Attendance*, *Place, *Valid Until* and *Total Hours Per Week*.
+    # There should be a checkbox labeled as *Multiple Attendees* and should be unchecked by default. The numeric stepper should be disabled and set to one by default. Checking the multiple attendees checkbox should enable the numeric stepper. This tool may be used to set if the offers allow multiple attendees and number of maximum attendees allowed for the offer.
+    # The *Requires Attendance* checkbox should be selected by default. This button should enable the user to select if the service needs to be performed in the presence of the associate.
+    # The *Place* checkbox should be checked by default. Next to it, there should be a map view. The map view should be zoomed into the user's current location if they have allowed location sharing. If location sharing has not been enabled, to map should be zoomed out to show display user's city fully. The map view should enable to user to select a region in which they are willing to provide the service.
     # Next to the *Valid Until* there should be a checkbox which may be used to enable the data selector next to it. This checkbox should be deselected by default.
-    # There should be two radio buttons next to the header titled *Available*. The radio buttons should be labeled as *Flexible* and *Only During*. They should enable the user to set a specific time period for the service, if desired. The *Flexible* radio button should be selected by default.
-      # Below the *Only During* radio button, there should be checkboxes and comboboxes to be used for data selection. They should be enabled only when the *Only During* radio button is selected. Below the *Only During* radio button, there should be two headings titled as *Days* and *Hours*. The checkboxes below the *Days* header should be labeled as *M, Tu, W, Th, F, Sa* and *Su*, to depict the days of the week.
-      # Next to *Days* checkboxes, on the right-hand side, there should be a numeric stepper titled *Total* which may be used by the user to set duration of the service in terms of hours.
-      # Next to the *Total* numeric steppers, there should be two radio button labeled as *Flexible Hours* and *Between*. The *Flexible Hours* radio button should be selected by default. There should be two text boxes placed under the *Between* radio button. These text boxes should be formatted to allow the user to specify hours of the day. They should be enabled only when the *Between* radio button is checked.
+    # There should be a heading titled *Total Hours Per Week*. Next to it there should be a numeric stepper. This numeric stepper may be used to set the amount of hours the offerer is willing to perform the services per week.
+  # There should be region designated as "Availability". The tools in this region may be used to provide the desired schedule of the offerer.
+    # The radio buttons in this region should be labeled as *Flexible* and *Only During*. They should enable the user to set a specific time period for the service, if desired. The *Flexible* radio button should be selected by default.
+      # Below the *Only During* radio button, there should be checkboxes and comboboxes to be used for data selection. They should be enabled only when the *Only During* radio button is selected.
+      # There should be checkboxes below a header titled *Days*.The checkboxes should be labeled as *Monday*, *Tuesday*, *Wednesday*, *Thursday*, *Friday*, *Saturday* and *Sunday*. All of them should be unchecked by default.
+      # Checking each of this checkboxes should make two formatted numeric steppers visible. These numeric steppers may be used to set the times of day during which the service may be provided.
+      # If the "Only During" radio button is selected, there should be a "Hours Allocation" label to display the total hours of the service which have been allocated.
   # The container should have a header title *Photos*.
     # Next to the header there should be a checkbox. This checkbox should be deselected by default.
     # Next to the checkbox there should be a button titled *Upload*. The button should be enable only when the checkbox is selected.
     # The *Upload* button should enable a user to upload descriptive photos of the service.
     # Adding photos should be optional.
     # At most 3 photos should be allowed.
-  # creator will enter how much credits he wants for this offer. He will also be informed that he cannot change this amount after he creates this offer.
+  # There should be a numeric stepper next to a heading titled *Units*. The creator will enter how much credits he wants for this offer. He will also be informed that he cannot change this amount after he creates this offer.
   # Below the container there should be three buttons labeled as *Create*, *Discard* and *Save as Draft*.
     # The *Create* button should save the offer in the database and publish it as a new service.
     # The *Discard* button should discard all the changes and should navigate the user the their profile page, after a dialogue box confirmation is made.
     # The *Save as Draft* button should save the offer in the database without publishing it.
-  # in the sidebar, user will see his last 5 offers, last 5 request, last 5 deals.
-    # he can navigate to see his all offers requests and deals by clicking _see all_ link below them.
+  # There should be a sidebar to contain user's *Service History*, *Recent Offers* and *Recent Requests*. In the sidebar, te user will see his last 5 offers, last 5 requests, last 5 deals.
+    # The *Service History* table should display the services the user has participated. The table should display the *Title*, *Your Role*, *Associate* and *Units* headings to signify service's title, user's role in the services, user's counterpart in the service and the amount of units exchanged in the service, respectively.
+    # He can navigate to see his all offers, requests and deals by clicking _see all_ link below them.
 
 == Update Offer Page==
   # this page will be used to update offer info.
