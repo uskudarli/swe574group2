@@ -158,7 +158,7 @@
     </control>
     <control controlID="205" controlTypeID="com.balsamiq.mockups::List" x="561" y="390" w="190" h="117" measuredW="100" measuredH="126" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Cleaning%0AItalian%20Food%0ALawn%20Moving%0AShopping%20help</text>
+        <text>Cleaning%0AItalian%20Food%0ALawn%20Mowing%0AShopping%20help</text>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>

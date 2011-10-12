@@ -41,9 +41,9 @@ This page presents requirements about the project of swe574 group 2.
     # At most 3 photos should be allowed.
   # There should be a numeric stepper next to a heading titled *Units*. The creator will enter how much credits he wants for this offer. He will also be informed that he cannot change this amount after he creates this offer.
   # Below the container there should be three buttons labeled as *Create*, *Discard* and *Save as Draft*.
-    # The *Create* button should save the offer in the database and publish it as a new service.
+    # The *Create* button should save the request in the database and publish it as a new service.
     # The *Discard* button should discard all the changes and should navigate the user the their profile page, after a dialogue box confirmation is made.
-    # The *Save as Draft* button should save the offer in the database without publishing it.
+    # The *Save as Draft* button should save the request in the database without publishing it.
   # There should be a sidebar to contain user's *Service History*, *Recent Offers* and *Recent Requests*. In the sidebar, te user will see his last 5 offers, last 5 requests, last 5 deals.
     # The *Service History* table should display the services the user has participated. The table should display the *Title*, *Your Role*, *Associate* and *Units* headings to signify service's title, user's role in the services, user's counterpart in the service and the amount of units exchanged in the service, respectively.
     # He can navigate to see his all offers, requests and deals by clicking _see all_ link below them.
