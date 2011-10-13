@@ -118,7 +118,7 @@ This page presents requirements about the project of swe574 group 2.
       # Below the *Only During* radio button, there should be checkboxes and comboboxes to be used for data selection. They should be enabled only when the *Only During* radio button is selected.
       # There should be checkboxes below a header titled *Days*.The checkboxes should be labeled as *Monday*, *Tuesday*, *Wednesday*, *Thursday*, *Friday*, *Saturday* and *Sunday*. All of them should be unchecked by default.
       # Checking each of this checkboxes should make two formatted numeric steppers visible. These numeric steppers may be used to set the times of day during which the service may be provided.
-      # If the *Only During* radio button is selected, there should be a *Hours Allocation" label to display the total hours of the service which have been allocated.
+      # If the *Only During* radio button is selected, there should be a *Hours Allocation* label to display the total hours of the service which have been allocated.
   # The container should have a header title *Photos*.
     # Next to the header there should be a checkbox. This checkbox should be deselected by default.
     # Next to the checkbox there should be a button titled *Upload*. The button should be enable only when the checkbox is selected.
