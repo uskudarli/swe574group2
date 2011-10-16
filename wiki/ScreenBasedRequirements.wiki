@@ -7,10 +7,10 @@ This page presents requirements about the project of swe574 group 2.
 
 ==Home Page==Main Page Requirements
 
-#Users must register in order to login the system, new users can use register link and fill necessary form to register. User whom forgets his password can use “forgotten password” link in order to retrieve his password.
-#There should be a table called “Recent Services” which shows most recent service exchanges between service providers and service users. Recent services should contains, the service name, place time, unit and service provider and service user.
-#There should be a table that introduces active users, new users and volunteer admins. Active Users tab should contain basic view of user profile since page can be viewed by public without login to the system. Basic view should contains, user’s name, tags, recent offers and recent requests.  New users tab should contain newly joined members with basic profile. If the new user has offers and request, those should be in the basic profile.
-#There should be one tag cloud per offers and one tag cloud per requests since both have different demand rates. Popular tags should have bigger fonts. 
+  # Users must register in order to login the system, new users can use register link and fill necessary form to register. User whom forgets his password can use “forgotten password” link in order to retrieve his password.
+  # There should be a table called “Recent Services” which shows most recent service exchanges between service providers and service users. Recent services should contains, the service name, place time, unit and service provider and service user.
+  # There should be a table that introduces active users, new users and volunteer admins. Active Users tab should contain basic view of user profile since page can be viewed by public without login to the system. Basic view should contains, user’s name, tags, recent offers and recent requests.  New users tab should contain newly joined members with basic profile. If the new user has offers and request, those should be in the basic profile.
+  # There should be one tag cloud per offers and one tag cloud per requests since both have different demand rates. Popular tags should have bigger fonts. 
 
 ==Create Offer Screen==
   # The *Create Offer Screen* should have a container which has tools like text boxes, check boxes and menus enabling a user to define the specifics about the offer.
