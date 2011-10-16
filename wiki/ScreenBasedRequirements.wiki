@@ -5,7 +5,7 @@ This page presents requirements about the project of swe574 group 2.
 ==Quick Links==
 <wiki:toc max_depth=2 />
 
-==Home Page==Main Page Requirements
+==Home Page==
 
   # Users must register in order to login the system, new users can use register link and fill necessary form to register. User whom forgets his password can use “forgotten password” link in order to retrieve his password.
   # There should be a table called “Recent Services” which shows most recent service exchanges between service providers and service users. Recent services should contains, the service name, place time, unit and service provider and service user.
