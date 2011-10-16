@@ -1,13 +1,13 @@
-<mockup version="1.0" skin="sketch" measuredW="936" measuredH="848" mockupW="936" mockupH="817">
+<mockup version="1.0" skin="sketch" measuredW="936" measuredH="924" mockupW="936" mockupH="893">
   <controls>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="31" w="936" h="817" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="31" w="936" h="893" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Search%20Offers%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="28" y="130" w="900" h="680" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="43" y="185" w="870" h="610" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::DataGrid" x="51" y="200" w="852" h="587" measuredW="834" measuredH="586" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="28" y="130" w="900" h="758" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="43" y="294" w="870" h="579" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::DataGrid" x="52" y="303" w="852" h="563" measuredW="834" measuredH="586" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <bold>true</bold>
@@ -20,14 +20,29 @@
         <vLines>false</vLines>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::SubTitle" x="43" y="141" w="-1" h="-1" measuredW="159" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::SubTitle" x="43" y="141" w="-1" h="-1" measuredW="159" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Recent%20Offers</text>
       </controlProperties>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::SearchBox" x="823" y="141" w="-1" h="-1" measuredW="65" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::SearchBox" x="43" y="253" w="159" h="-1" measuredW="65" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="798" y="161" w="-1" h="-1" measuredW="90" measuredH="42" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20Ascending%0A%28%20%29%20Descending</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::FieldSet" x="645" y="141" w="268" h="137" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Extra%20Sorting%20Criteria</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="655" y="158" w="-1" h="-1" measuredW="126" measuredH="105" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28%29%20Offerer%20Name%0A%28o%29%20Offerer%20Balance%0A%28%29%20Offerer%20Reputation%0A%28%29%20Units%20Required%0A%28%29%20Creation%20Date</text>
       </controlProperties>
     </control>
   </controls>
