@@ -18,4 +18,11 @@
   # URL: https://swe574group2.googlecode.com/svn/trunk/
   # Enter your e-mail as the user name and find your password from: https://code.google.com/hosting/settings
 
+== Play Eclipse Plugin Setup ==
+  To install, copy the JAR file from $PLAY_HOME/support/eclipse to $ECLIPSE_HOME/dropins.
+
+== Play Setup ==
+
+== MySQL Setup ==
+
 *to be completed...*
