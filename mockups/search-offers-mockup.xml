@@ -1,34 +1,71 @@
-<mockup version="1.0" skin="sketch" measuredW="936" measuredH="887" mockupW="936" mockupH="856">
+<mockup version="1.0" skin="sketch" measuredW="936" measuredH="705" mockupW="936" mockupH="674">
   <controls>
-    <control controlID="144" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="31" w="936" h="856" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="31" w="936" h="674" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Search%20Offers%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="145" controlTypeID="com.balsamiq.mockups::Canvas" x="28" y="130" w="900" h="717" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="146" controlTypeID="com.balsamiq.mockups::SearchBox" x="642" y="144" w="-1" h="-1" measuredW="56" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>guitar</text>
-      </controlProperties>
-    </control>
-    <control controlID="147" controlTypeID="com.balsamiq.mockups::Canvas" x="43" y="185" w="870" h="647" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="150" controlTypeID="com.balsamiq.mockups::DataGrid" x="51" y="200" w="841" h="617" measuredW="703" measuredH="85" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="28" y="130" w="900" h="541" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="43" y="294" w="870" h="363" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::DataGrid" x="52" y="303" w="852" h="339" measuredW="837" measuredH="346" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <bold>true</bold>
         <hasHeader>true</hasHeader>
+        <hLines>true</hLines>
+        <rowHeight>80</rowHeight>
         <selectedIndex>-1</selectedIndex>
-        <text>Offerer%2C%20Title%2C%20%20Creation%20Date%20%5E%2C%20Tags%2C%20Units%20%5E%2C%20Availability%2C%20Valid%20Until%2C%20Location%0AOtto%2C%20Guitar%20Lessons%2C%2002.10.2011%2C%20%5Bguitar%5D%2C%2012%2C%20Tu-W%2C%20Indefinite%2C%20Ogdenville%0ABarney%20Grumble%2C%20Guitar%20Tuning%2C%2001.10.2011%2C%20%5Bguitar%5D%20%5Btuning%5D%2C%205%2C%20Flexible%2C%2030.11.2011%2C%20Shelbyville</text>
+        <size>14</size>
+        <text>Offerer%2C%20Title%2C%20%20Creation%20Date%20%5E%2C%20Tags%2C%20Units%2C%20Availability%2C%20Valid%20Until%2C%20Location%0AOtto%20Mann%2C%20Guitar%20Lessons%2C%2002.10.2011%2C%20%5Bguitar%5D%2C%2012%2C%20Tu%5CrW%2C%20Indefinite%2C%20City%3A%20Ogdenville%0ARalph%20Wiggum%2C%20Guitar%20%26%20Piano%20Tuning%2C%2015.09.2011%2C%20%5Bguitar%5D%5Cr%5Bpiano%5D%5Cr%5Btuning%5D%2C%208%2C%20Sa%5CrSu%2C%2031.12.2011%2C%20City%3A%20North%20Haverbrook%0AMartin%20Prince%2C%20Guitar%20Repairing%2C%2015.09.2011%2C%20%5Bguitar%5D%5Cr%5Brepair%5D%2C%2013%2C%20M%5CrW%5CrF%2C%20Indefinite%2C%20County%3A%20Waverly%20Hills%0AGil%20Gunderson%2C%20Guitar%20Lesson%20from%20Old%20Gil%2C%2013.09.2011%2C%20%5Bguitar%5D%2C%201%2C%20Flexible%2C%20Indefinite%2C%20State%3A%20North%20Takoma</text>
+        <vLines>false</vLines>
       </controlProperties>
     </control>
-    <control controlID="173" controlTypeID="com.balsamiq.mockups::Link" x="713" y="146" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Advanced%20Search</text>
-      </controlProperties>
-    </control>
-    <control controlID="192" controlTypeID="com.balsamiq.mockups::SubTitle" x="43" y="141" w="-1" h="-1" measuredW="157" measuredH="33" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::SubTitle" x="43" y="141" w="-1" h="-1" measuredW="157" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Search%20Offers</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::SearchBox" x="370" y="144" w="159" h="-1" measuredW="56" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>guitar</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="798" y="161" w="-1" h="-1" measuredW="90" measuredH="42" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20Ascending%0A%28%20%29%20Descending</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::FieldSet" x="645" y="141" w="268" h="137" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Extra%20Sorting%20Criteria</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="655" y="158" w="-1" h="-1" measuredW="126" measuredH="105" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28%29%20Offerer%20Name%0A%28o%29%20Offerer%20Balance%0A%28%29%20Offerer%20Reputation%0A%28%29%20Units%20Required%0A%28%29%20Creation%20Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="370" y="174" w="-1" h="-1" measuredW="93" measuredH="105" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20Title%0A%5Bx%5D%20Tag%0A%5B%5D%20Description%0A%5B%5D%20User%20Name%0A%5B%5D%20Location</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="269" y="146" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Search%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="269" y="171" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>In%20Fields%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="64" y="180" w="84" h="98" measuredW="199" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Searching%20in%20%5BTitle%5D%2C%20%5BTag%5D%20for%20%5Bguitar%5D</text>
       </controlProperties>
     </control>
   </controls>
