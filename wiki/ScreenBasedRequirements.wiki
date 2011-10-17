@@ -283,8 +283,8 @@ This page presents requirements about the project of swe574 group 2.
     # Unfreeze button will unfreeze request.
   # Archieve Offers :
     # In a tabular format, the following data will be presented: OfferID, Status, Offerer, Requester, Start Date, Completion Date, Rating, Actions (View,Mark as Invalid)
-    # View button will open a popup screen where admin can view offer details. 
-    # Mark as Invalid button will make the offer invalid, and ratings given related to this offer will be discarded.
+    # *View* button will open a popup screen where admin can view offer details. 
+    # *Mark as Invalid* button will make the offer invalid, and ratings given related to this offer will be discarded.
   # Archieve Requests:
     # In a tabular format, the following data will be presented: RequestID, Status, Requester, Start Date, Close Date, Deal Date, Dealed OfferID, Actions (View,Request Rating)
     # View button will open a popup screen where admin can view request details. 
@@ -292,6 +292,7 @@ This page presents requirements about the project of swe574 group 2.
 
 ==Super Admin Page==
   # This page will be used by super admins (site owners) to maintain system.
-  # Admin assignment section will have a dropdown list of user names with userid. Assign button will assign the selected user as admin, unassign button will unassign admin role form the user. 
+  # *Admin assignment* section will have a dropdown list of user names with userid. Assign button will assign the selected user as admin, unassign button will unassign admin role form the user. 
     # If the user is already assigned to admin role, and assign button is pressed for this user, a warning message will popup with text "Selected user is already assigned to admin role."
     # If the user is not assigned to admin role, and unassign button is pressed for this user, a warning message will popup with text "Selected user doesn't have admin role."
+  # Safe domains assignment section will have a dropdown list of user names with userid. Assign button will assign the selected user as admin, unassign button will unassign admin role form the user. 
