@@ -304,4 +304,4 @@ This page presents requirements about the project of swe574 group 2.
   # Right side of screen, the following sections will be listed with an input textbox and *set* button : *Max User Connected, Max Offer / User, Max Request / User, Max Credit Balance, Min Credit Balance*
     # If admins sets those values, active deals and further requests/offers will be effected. Completed deals are not subject of those settings.
   # *System Log* section will be at the bottom of screen. In a tabular format, the following fields will be shown : *Log Type, Date, Info*
-    # Log types are : *Warning, Info, Error* Those types and messages will be inserted to database when pre-defined cases occurs.
+    # Log types are : *Warning, Info, Error*. Those types and messages will be inserted to database when pre-defined cases occurs.
