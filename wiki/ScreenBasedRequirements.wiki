@@ -265,17 +265,12 @@ This page presents requirements about the project of swe574 group 2.
 
 ==Admin Page==
   # This page will be used by admins to maintain system.
-  # There will be 5 tabs named as: User Profiles, Active Offers,
-    Active Requests, Achieve Offers, Achieve Requests
+  # There will be 5 tabs named as: User Profiles, Active Offers, Active Requests, Achieve Offers, Achieve Requests
   # User Profiles :
     # In a tabular format, the following data will be presented: UserId, Name, Surname, Mail, Actions (View/Edit,Freeze,Unfreeze)
-    # View/Edit button will open a popup screen where admin can
-      modify these user information fields : Profile photo, City, Name, Surname. All modifications will be sent to user for 
-      approval.
-    # Freeze button will freeze user account and requests and 
-      offers related to that account.
-    # Unfreeze button will unfreeze user account. The requests and 
-      offers related to that account will also become active.
+    # View/Edit button will open a popup screen where admin can modify these user information fields : Profile photo, City, Name, Surname. All modifications will be sent to user for approval.
+    # Freeze button will freeze user account and requests and offers related to that account.
+    # Unfreeze button will unfreeze user account. The requests and offers related to that account will also become active.
   # Active Offers :
     # In a tabular format, the following data will be presented: UserId, Status, Offerer, Requester, Start Date, Completion Date,
       Rating, Actions (View/Edit,Freeze,Unfreeze)
