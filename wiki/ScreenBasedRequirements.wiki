@@ -295,4 +295,7 @@ This page presents requirements about the project of swe574 group 2.
   # *Admin assignment* section will have a dropdown list of user names with userid. Assign button will assign the selected user as admin, unassign button will unassign admin role form the user. 
     # If the user is already assigned to admin role, and assign button is pressed for this user, a warning message will popup with text "Selected user is already assigned to admin role."
     # If the user is not assigned to admin role, and unassign button is pressed for this user, a warning message will popup with text "Selected user doesn't have admin role."
-  # *Safe domains assignment* section will have a dropdown list of user names with userid. Assign button will assign the selected user as admin, unassign button will unassign admin role form the user. 
+  # *Safe domains assignment* section will have a textbox to enter new domains. When *add* button is pressed, domain will be added to safe domain list. 
+    # If input domain is already on safe domain list, following warning message will be shown : "Domain name already exists in safe domain list."
+    # By selecting a domain name from list, and clicking *remove* button, admins can remove a domain name from safe domain list. Before removing a confirmation message will be shown as : "This action will remove domain from list, continue?"
+    # If a domain is removed from safe domain, all accounts related to that domain will be frozen. If same domain is added to list later on, those accounts will be unfrozen.
