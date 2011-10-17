@@ -48,9 +48,9 @@ This page presents requirements about the project of swe574 group 2.
     # The *Create* button should save the request in the database and publish it as a new service.
     # The *Discard* button should discard all the changes and should navigate the user the their profile page, after a dialogue box confirmation is made.
     # The *Save as Draft* button should save the request in the database without publishing it.
-  # There should be a sidebar to contain user's *Service History*, *Recent Offers* and *Recent Requests*. In the sidebar, te user will see his last 5 offers, last 5 requests, last 5 deals.
+  # There should be a sidebar to contain user's *Service History*, *Recent Offers* and *Recent Requests*. In the sidebar, te user will see his last 5 offers, last 5 requests, last 5 handshakes.
     # The *Service History* table should display the services the user has participated. The table should display the *Title*, *Your Role*, *Associate* and *Units* headings to signify service's title, user's role in the services, user's counterpart in the service and the amount of units exchanged in the service, respectively.
-    # He can navigate to see his all offers, requests and deals by clicking _see all_ link below them.
+    # He can navigate to see his all offers, requests and handshakes by clicking _see all_ link below them.
 
 == Update Offer Page==
   # this page will be used to update offer info.
@@ -90,9 +90,9 @@ This page presents requirements about the project of swe574 group 2.
   # after a bid is accepted, the accepted bid will be highlighed in the page and other users will understand that that user has taken this service.
   # After a bid is accepted, the *complete offer* button will be visible to owner.
     # by clicking this button, he accepts that the bidder has completed his task.
-    # After click, this offer will not be visible as an offer. It is now a deal.
+    # After click, this offer will not be visible as an offer. It is now a handshake.
     # After click, the credit balance will be edited for both of the users.
-    # After click, user will be redirected to his deals page. 
+    # After click, user will be redirected to his handshakes page. 
   # After a bid is accepted *cancel bid* button will be visible to owner.
     # if user clicks on this button, bid will be canceled.
     # after click, others can continue to bid on this offer. 
@@ -133,9 +133,9 @@ This page presents requirements about the project of swe574 group 2.
     # The *Create* button should save the offer in the database and publish it as a new service.
     # The *Discard* button should discard all the changes and should navigate the user the their profile page, after a dialogue box confirmation is made.
     # The *Save as Draft* button should save the offer in the database without publishing it.
-  # There should be a sidebar to contain user's *Service History*, *Recent Offers* and *Recent Requests*. In the sidebar, te user will see his last 5 offers, last 5 requests, last 5 deals.
+  # There should be a sidebar to contain user's *Service History*, *Recent Offers* and *Recent Requests*. In the sidebar, te user will see his last 5 offers, last 5 requests, last 5 handshakes.
     # The *Service History* table should display the services the user has participated. The table should display the *Title*, *Your Role*, *Associate* and *Units* headings to signify service's title, user's role in the services, user's counterpart in the service and the amount of units exchanged in the service, respectively.
-    # He can navigate to see his all offers, requests and deals by clicking _see all_ link below them.
+    # He can navigate to see his all offers, requests and handshakes by clicking _see all_ link below them.
 
 ==Update request Page==
   # This page will be used to update info about a request.
@@ -153,7 +153,7 @@ This page presents requirements about the project of swe574 group 2.
     # City
     # Other attributes 
   #User's tag claoud will be visible on this page.
-  #User's offers, requests and deals links will be visible on this page.
+  #User's offers, requests and handshakes links will be visible on this page.
   #In offers page, offers serviced by this user will be visible.
     # Offer title
     # Offer tags
@@ -171,13 +171,13 @@ This page presents requirements about the project of swe574 group 2.
     # when a user clicks on this link he will navigate to request update page. 
     # in request update page, the owner can edit the visibility of this request. (@problem: eger gozukmesini istemiyorsa neden bir request yaratsin?)
   # When user clicks on the name of request, he will navigate to request detail page.
-  # In deals tab, user will be presented the deals that the owner has made so far. 
+  # In handshakes tab, user will be presented the handshakes that the owner has made so far. 
     # offerer of that service
     # consumer of that service
-    # deal time
-    # deal status 
+    # handshake time
+    # handshake status 
     # credit consumed or earned
-  # when a user clicks on a deal row, he will navigate to deal detail page.
+  # when a user clicks on a handshake row, he will navigate to handshake detail page.
 
 
 ==Offer Search Page==
@@ -244,18 +244,18 @@ This page presents requirements about the project of swe574 group 2.
   # name - surname - email and password are required fields.
   # After user successfully created his/her account, he will be informed as "_your account is created successfully, now you can login from home page._"
 
-==Deal detail page==
-  # This page will present info about a deal.
+==handshake detail page==
+  # This page will present info about a handshake.
   # Offerer name and info will be presented. (@todo: how much info? => image, age, credit balance maybe.)
   # Service consumer(s)' info will be presented. 
-  # Credits earned or cost in this deal will be presented.
-  # All users will be able to comment on this deal.
+  # Credits earned or cost in this handshake will be presented.
+  # All users will be able to comment on this handshake.
   # Only consumer will be able to rate this service.
     # rates will be out of 5 stars.
   # Other info of this offer will be visible. (tags, hours, availability...)
-  # Similar deals will be visible on the sidebar.
-    # deal offer, consumer and credit info will be presented.
-    # deals will be matched by tags.
+  # Similar handshakes will be visible on the sidebar.
+    # handshake offer, consumer and credit info will be presented.
+    # handshakes will be matched by tags.
   # Similar offers will be visible on the sidebar.
     # offer owner, tags, and credit info will be visible
     # offers will be matched by tags.
