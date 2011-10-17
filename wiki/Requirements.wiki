@@ -7,7 +7,7 @@
     * rate an item (what items?)
     * add comment (optional)
   * user
-    * display credit
+    * display unit
     * signup
     * login
     * add tag
@@ -46,8 +46,8 @@
      * user information (name surname, sex, location, age, hobies, job.) => none of there areas are mandatory except name
      * current user offers
      * current user requests
-     * completed user offers (list: service offerer name, rating, date, credit value)
-     * completed user requests (list: service requester name, rating, date, credit value) 
+     * completed user offers (list: service offerer name, rating, date, unit value)
+     * completed user requests (list: service requester name, rating, date, unit value) 
      * recommendations (other users can write recommendation for the user, regardless of completed requests and offers. this section is under control of user, and can delete inappropirate inputs)
 
   * admin panel
@@ -60,7 +60,7 @@
      
   * uber-admin panel
      * assign / unassign admin role to user 
-     * set max balance and min balance (users over max balance are motivated to spend their credits, users under min balance are motivated to earn credits. motivation through mail and tag cloud priority)
+     * set max balance and min balance (users over max balance are motivated to spend their units, users under min balance are motivated to earn units. motivation through mail and tag cloud priority)
      * system log (errors and important messages are entered to database. uber-admin views those messages with a system log message list)
      * set maximum user logged in 
      * set maximum offer per user (to avoid abuse)
