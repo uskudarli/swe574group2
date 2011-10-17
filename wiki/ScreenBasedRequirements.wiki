@@ -281,11 +281,13 @@ This page presents requirements about the project of swe574 group 2.
     # View/Edit button will open a popup screen where admin can modify these request fields: Title, Description, Photo, Limitations. All modifications will be sent to user for approval.
     # Freeze button will freeze request. No further action is allowed.
     # Unfreeze button will unfreeze request.
- # Archieve Offers :
+  # Archieve Offers :
     # In a tabular format, the following data will be presented: OfferId, Status, Offerer, Requester, Start Date, Completion Date, Rating, Actions (View,Mark as Invalid)
     # View button will open a popup screen where admin can view offer details. 
     # Mark as Invalid button will make the offer invalid, and ratings given related to this offer will be discarded.
- # Archieve Requests:
+  # Archieve Requests:
     # In a tabular format, the following data will be presented: RequestId, Status, Requester, Start Date, Close Date, Deal Date, Dealed OfferId, Actions (View,Request Rating)
     # View button will open a popup screen where admin can view request details. 
     # Request Rating button will send a notifation mail to requester, informing that rating is needed for the completed offer.
+
+==Super Admin Page==
