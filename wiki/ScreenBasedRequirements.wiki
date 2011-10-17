@@ -299,3 +299,5 @@ This page presents requirements about the project of swe574 group 2.
     # If input domain is already on safe domain list, following warning message will be shown : "Domain name already exists in safe domain list."
     # By selecting a domain name from list, and clicking *remove* button, admins can remove a domain name from safe domain list. Before removing a confirmation message will be shown as : "This action will remove domain from list, continue?"
     # If a domain is removed from safe domain, all accounts related to that domain will be frozen. If same domain is added to list later on, those accounts will be unfrozen.
+  # *Delete User* section will have a dropdownlist containing active user names and id. Pressing *Delete* button will delete user information and offers and requests completed by that user. Credits gained due to that deals will not be erased, but ratings will be completely removed. 
+    # After *Delete* button is pressed, following confirmation message will be shown : "Deletion of user will completely remove user data and related ratings, continue?".
