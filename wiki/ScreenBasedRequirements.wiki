@@ -301,3 +301,6 @@ This page presents requirements about the project of swe574 group 2.
     # If a domain is removed from safe domain, all accounts related to that domain will be frozen. If same domain is added to list later on, those accounts will be unfrozen.
   # *Delete User* section will have a dropdownlist containing active user names and id. Pressing *Delete* button will delete user information and offers and requests completed by that user. Credits gained due to that deals will not be erased, but ratings will be completely removed. 
     # After *Delete* button is pressed, following confirmation message will be shown : "Deletion of user will completely remove user data and related ratings, continue?".
+  # Right side of screen, the following sections will be listed with an input textbox and *set* button : *Max User Connected, Max Offer / User,
+ Max Request / User, Max Credit Balance, Min Credit Balance*
+    # If admins sets those values, active deals and further requests/offers will be effected. Completed deals are not subject of those settings.
