@@ -1,0 +1,25 @@
+#summary Instructions for Connecting to VPN
+
+= Introduction =
+
+The following guidelines may be used to connect to VPN of CMPE; vpn.cmpe.boun.edu.tr.
+
+
+= Details =
+
+*For All Platforms*
+
+  # Acquire Cisco AnyConnect VPN Client for your platform.
+  # Provide your user credentials and the group name (cmpeall).
+  # Accept the certificate.
+  # You should be connected to the VPN and able to use ssh in order to access the group's account at the SWE server. (For details see _Instructions for SSH Connection_ in the wiki.
+
+*For Unix Platforms*
+
+  # Install openconnect and vpnc if they are available for your platform.
+  # Get root access.
+  # Use openconnect with the vpnc script to connect to VPN. By default, vnpc's script is located at /etc/vpnc/vpnc-script. Use openconnect's "--script" option to utilize the script. Example usage: "{{{openconnect --script /etc/vpnc/vpnc-script vpn.cmpe.boun.edu.tr}}}"
+  # Accept the certificate.
+  # Provide the group name (cmpeall).
+  # Provide your user credentials.
+  # You should be connected to the VPN and able to use ssh in order to access the group's account at the SWE server. (For details see _Instructions for SSH Connection_ in the wiki.
