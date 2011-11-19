@@ -1,4 +1,5 @@
 #summary Instructions for Connecting to VPN
+#labels Featured
 
 = Introduction =
 
