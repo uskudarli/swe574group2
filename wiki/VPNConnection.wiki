@@ -13,7 +13,7 @@ The following guidelines may be used to connect to VPN of CMPE; vpn.cmpe.boun.ed
   # Acquire Cisco AnyConnect VPN Client for your platform.
   # Provide your user credentials and the group name (cmpeall).
   # Accept the certificate.
-  # You should be connected to the VPN and able to use ssh in order to access the group's account at the SWE server. (For details see _Instructions for SSH Connection_ in the wiki.
+  # You should be connected to the VPN and able to use ssh in order to access the group's account at the SWE server. (For details see _Instructions for SSH Connection_ in the wiki)
 
 *For Unix Platforms*
 
@@ -23,4 +23,4 @@ The following guidelines may be used to connect to VPN of CMPE; vpn.cmpe.boun.ed
   # Accept the certificate.
   # Provide the group name (cmpeall).
   # Provide your user credentials.
-  # You should be connected to the VPN and able to use ssh in order to access the group's account at the SWE server. (For details see _Instructions for SSH Connection_ in the wiki.
+  # You should be connected to the VPN and able to use ssh in order to access the group's account at the SWE server. (For details see _Instructions for SSH Connection_ in the wiki)
