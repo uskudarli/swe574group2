@@ -12,5 +12,4 @@ The following guidelines may be used to in order to connect to SWE server (swe.c
   # User name and password information are provided in the email message sent to the group with the title "Fwd: Swe574 gelistirme ortami".
   # Use an SSH client of your choice to connect with the provided user name to the host. For command line clients, the command is "{{{ssh username@swe.cmpe.boun.edu.tr}}}".
   # Group's own instance of Apache tomcat is located at `~/apache-tomcat-7.0.22`.
-  # An instance of play framework is located at `~/play-1.2.3`.
-  # A working directory of the repository is located at `~/swe574group2`.
+  # You can use the account's credentials for connecting to MySQL.
